@@ -1,0 +1,38 @@
+.header {
+    background-color: rgb(49, 49, 49);
+}
+
+h1 {
+    color: ivory;
+}
+
+.main {
+    height: 80vh;
+    gap: 3%;
+}
+
+.card--welcome {
+    background-color: lightgray;
+    height: 50%;
+    width: 70%;
+    align-self: center;
+}
+
+.welcom-title, .welcom-text, .welcom-button {
+    margin: 2rem;
+}
+
+.welcom-title {
+    font-size: 3rem;
+}
+
+.container--card {
+    gap: 3%;
+}
+
+.footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    height: 10vh;
+}
